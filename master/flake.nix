@@ -11,7 +11,6 @@
   inputs.src-gentabs-master.ref   = "refs/heads/master";
   inputs.src-gentabs-master.owner = "lcrees";
   inputs.src-gentabs-master.repo  = "gentabs";
-  inputs.src-gentabs-master.dir   = "";
   inputs.src-gentabs-master.type  = "github";
   
   outputs = { self, nixpkgs, flakeNimbleLib, ...}@deps:
