@@ -33,11 +33,11 @@
       },
       "locked": {
         "dir": "master",
-        "lastModified": 1653689751,
-        "narHash": "sha256-LTWbO3EP4xAdjMpKOUywjR1ZRzUFL4Nw+3CeyoaZoA0=",
+        "lastModified": 1653696353,
+        "narHash": "sha256-Z+igHmTWKIGFCQ/IVnVJr0JApzN/YUbyQp8l9Uxfypc=",
         "owner": "nim-nix-pkgs",
         "repo": "gentabs",
-        "rev": "0264686bde3594cc9faffe53b44a96867521d542",
+        "rev": "57a43e48c5593415e6d3cf23a4c7156f9de640ab",
         "type": "github"
       },
       "original": {
